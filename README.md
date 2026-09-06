@@ -3,7 +3,9 @@
 ## AI Resume & Job Matching System
 
 CareerMatch AI is a Python and Streamlit-based application that analyzes a candidate's resume against a job description and generates an explainable job-match score using NLP, skill matching, and TF-IDF text similarity.
+## Demo
 
+![CareerMatch AI Demo](screenshots/demo.png)
 ## Features
 
 * Resume PDF text extraction
