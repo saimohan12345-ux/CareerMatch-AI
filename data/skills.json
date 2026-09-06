@@ -1,0 +1,43 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c",
+        "c++",
+        "javascript"
+    ],
+
+    "databases": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "databases"
+    ],
+
+    "software_development": [
+        "rest api",
+        "rest apis",
+        "git",
+        "docker",
+        "aws",
+        "unit testing",
+        "pytest",
+        "junit",
+        "sdlc",
+        "software development life cycle",
+        "object oriented programming",
+        "oop",
+        "data structures"
+    ],
+
+    "ai_ml": [
+        "artificial intelligence",
+        "ai",
+        "machine learning",
+        "deep learning",
+        "nlp",
+        "tensorflow",
+        "pytorch"
+    ]
+}
